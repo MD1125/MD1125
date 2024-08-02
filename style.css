@@ -197,4 +197,16 @@ button:hover {
     border-color: #fff;
     background: rgba(255, 255, 255, 0.15);
   }
+
+  hr {
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin: 5.5px 0; /* Increased by 10% */
+}
+
+hr.small {
+    border: 0.5px solid rgba(255, 255, 255, 0.3);
+    margin: 2px auto; /* Centers the hr and adds vertical spacing */
+    width: 30%; /* Set width to make it shorter */
+    margin-left: 0;
+}
   
