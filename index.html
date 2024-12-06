@@ -1,32 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home | MD1125</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap">
-  <link rel="stylesheet" href="index.css"> <!-- Link to external CSS file -->
-</head>
-<body>
-  <div class="wrapper">
-    <h1>MD1125</h1>
-    <p>Personal Project / File Management</p>
-    <hr>
-    <p>Access Projects:</p>
-    <a href="https://md1125.dev/Projects" class="cta-button">Access Projects</a> <!-- Removed period after "Projects" -->
-    <hr>
-    <a href="https://md1125.dev/Projects/Public" class="cta-button" target="_blank">Public Project List</a>
-    <hr>
-    <p>Or</p>
-    <hr>
-    <a href="https://github.com/MD1125" class="cta-button" target="_blank">Github</a>
-    <div class="footer" id="currentYear">
-      &copy; <span id="copyright-year"></span> MD1125. All rights reserved.
-    </div>
-  </div>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Main | Md1125.dev</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<div id="wrapper">
+			<div id="overlay"></div>
+			<div id="main">
 
-  <script>
-    document.getElementById('copyright-year').textContent = new Date().getFullYear();
-  </script>
-</body>
+				<!-- Header -->
+					<header id="header">
+						<h1>MD1125 / MD</h1>
+						<p>Developer &nbsp;&bull;&nbsp; I just use this as a backend for all my services</p>
+						<nav>
+							<ul>
+								<li><a href="https://github.com/MD1125" class="icon brands fa-github" target="_blank"><span class="label">Github</span></a></li>
+								<li><a href="https://discord.com/users/823157584822665246" class="icon brands fa-discord" target="_blank"><span class="label">Discord</span></a></li>
+								<li><a href="https://projects.md1125.dev" class="icon brands fa-dribbble" target="_blank"><span class="label">Projects</span></a></li>
+								<li><a href="mailto:contact@md1125.dev" class="icon solid fa-envelope"><span class="label">Email</span></a></li>								
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<span class="copyright">&copy; MD1125.dev</a>.</span>
+					</footer>
+					<!--
+						Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+					-->
+			</div>
+		</div>
+		<script>
+			window.onload = function() { document.body.classList.remove('is-preload'); }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
 </html>
