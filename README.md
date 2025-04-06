@@ -23,6 +23,6 @@ Discord & Android app developer focused on building free, high-performance alter
 
 - [FreeLabs](https://freelabs.prysm.dev)
 
-- [Traer](https://tracer.prysm.dev)
+- [Tracer](https://tracer.prysm.dev)
 
 https://get.dev • https://md1125.dev
