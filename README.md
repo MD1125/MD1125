@@ -19,10 +19,6 @@ Discord & Android app developer focused on building free, high-performance alter
 
 - [Prysm Development](https://prysm.dev)
 
-- [Snet](https://snet.prysm.dev)
-
-- [FreeLabs](https://freelabs.prysm.dev)
-
-- [Tracer](https://tracer.prysm.dev)
+- [MD1125.dev](https://md1125.dev)
 
 https://get.dev • https://md1125.dev
