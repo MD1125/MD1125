@@ -7,7 +7,7 @@
 [![Mail](https://img.shields.io/badge/contact%40md1125.dev-D14836?logo=gmail&logoColor=white)](mailto:contact@md1125.dev)
 
 <p align="center">
-Discord & Android app developer focused on building free, high-performance alternatives to bloated paid solutions. Clean code, no BS.
+Discord & Android app developer focused on building free, high-performance alternatives to bloated paid solutions.
 </p>
 
 
