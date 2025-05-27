@@ -19,6 +19,6 @@ Discord & Android app developer focused on building free, high-performance alter
 
 - [Prysm Development](https://prysm.dev)
 
-- [MD1125.dev](https://md1125.dev)
+- [EMH API wrapper](https://www.npmjs.com/package/emh)
 
-https://get.dev • https://md1125.dev
+https://get.dev • https://prysm.dev
