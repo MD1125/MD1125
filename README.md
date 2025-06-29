@@ -1,6 +1,6 @@
 # 🛠️ MD1125
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=md1125&theme=ambient_gradient&show_icons=true">
+<img align="right" src="https://stats.md1125.dev/api?username=md1125&theme=ambient_gradient&show_icons=true">
 
 [![Discord](https://img.shields.io/badge/%40md1125-5865F2?logo=discord&logoColor=white)](https://discord.com/users/823157584822665246)
 <br content="">
